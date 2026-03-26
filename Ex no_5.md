@@ -20,8 +20,8 @@ int main() {
  printf("Average : %.2f\n", average);
  return 0;
 }
-Developed by:DUDEKULA HASEENA
-RegisterNumber:212222063004
+Developed by: GONGOTI SANDEEP YADAV
+RegisterNumber:212222060067
 */
 ```
 
