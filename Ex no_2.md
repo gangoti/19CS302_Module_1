@@ -22,8 +22,8 @@ return 0;
 
 /*
 Program to check whether the attendance is PRESENT using simple if statement.
-Developed by: DUDEKULA HASEENA
-RegisterNumber: 212222063004
+Developed by: GONGOTI SANDEEP YADAV
+RegisterNumber: 212222060067
 */
 ```
 
