@@ -19,8 +19,8 @@ return 0;
 }
 /*
 Program to initialize the value as 5.8 & display the same.
-Developed by: DUDEKULA HASEENA
-RegisterNumber: 212222063004
+Developed by: GONGOTI SANDEEP YADAV
+RegisterNumber: 212222060067
 */
 ```
 
